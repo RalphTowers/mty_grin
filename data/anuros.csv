@@ -1,0 +1,375 @@
+id,time_zone,quality_grade,license,url,sound_url,latitude,longitude,private_latitude,private_longitude,coordinates_obscured,species_guess,scientific_name,common_name,iconic_taxon_name,taxon_id
+299527,Hawaii,research,,http://www.inaturalist.org/observations/299527,,25.538101,-100.274735,,,false,Rheohyla miotympanum,Rheohyla miotympanum,Calates,Amphibia,554652
+383796,Mexico City,research,CC-BY-NC,http://conabio.inaturalist.org/observations/383796,,25.666249,-100.271455,,,false,Rio Grande Leopard Frog,Lithobates berlandieri,Rana leopardo,Amphibia,65975
+412373,Monterrey,research,CC-BY-NC,http://conabio.inaturalist.org/observations/412373,,25.54855,-100.270811,,,false,Rheohyla miotympanum,Rheohyla miotympanum,Calates,Amphibia,554652
+425412,Monterrey,research,CC-BY-NC,http://conabio.inaturalist.org/observations/425412,,25.548588,-100.270838,,,false,rana leopardo del río Bravo (Lithobates berlandieri),Lithobates berlandieri,Rana leopardo,Amphibia,65975
+440981,Monterrey,research,CC-BY-NC-ND,http://conabio.inaturalist.org/observations/440981,,25.712862,-100.313969,,,false,Sapo de puntos rojos,Anaxyrus punctatus,Sapo de puntos rojos,Amphibia,64984
+688500,Monterrey,research,CC-BY-NC,http://www.inaturalist.org/observations/688500,,25.549496,-100.270825,,,false,Camp's Frog,Eleutherodactylus campi,Rana Chirriadora Mexicana,Amphibia,1146656
+688611,Monterrey,research,CC-BY-NC,http://www.inaturalist.org/observations/688611,,25.539107,-100.274572,,,false,Rheohyla miotympanum,Rheohyla miotympanum,Calates,Amphibia,554652
+816837,Monterrey,research,CC-BY-NC,http://conabio.inaturalist.org/observations/816837,,25.7163311111,-100.3127755556,,,false,sapo de la planicie costera,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+876149,Monterrey,research,CC-BY-NC,http://conabio.inaturalist.org/observations/876149,,25.674949,-100.303802,,,false,Rheohyla miotympanum,Rheohyla miotympanum,Calates,Amphibia,554652
+912059,Hawaii,research,,http://www.inaturalist.org/observations/912059,,25.586787,-100.254313,,,false,Rheohyla miotympanum,Rheohyla miotympanum,Calates,Amphibia,554652
+2977590,Monterrey,research,CC-BY,http://conabio.inaturalist.org/observations/2977590,,25.586962,-100.281132,,,false,Gulf Coast Toad,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+3082833,Monterrey,research,CC-BY-NC,http://conabio.inaturalist.org/observations/3082833,,25.540103,-100.272603,,,false,Rheohyla miotympanum,Rheohyla miotympanum,Calates,Amphibia,554652
+3121795,Monterrey,research,CC-BY-NC,http://conabio.inaturalist.org/observations/3121795,,25.548574,-100.270844,,,false,Rana leopardo,Lithobates berlandieri,Rana leopardo,Amphibia,65975
+3307959,Ekaterinburg,research,CC-BY-NC,http://conabio.inaturalist.org/observations/3307959,,25.5485515594,-100.2708206177,,,false,Rio Grande Leopard Frog,Lithobates berlandieri,Rana leopardo,Amphibia,65975
+3512681,Central Time (US & Canada),research,CC-BY-NC,http://conabio.inaturalist.org/observations/3512681,,25.5498558,-100.2703875,,,false,Rheohyla miotympanum,Rheohyla miotympanum,Calates,Amphibia,554652
+3709112,Central Time (US & Canada),research,CC-BY-NC-ND,http://conabio.inaturalist.org/observations/3709112,,25.5486878012,-100.2708280832,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+3763352,Central Time (US & Canada),research,CC-BY-NC-SA,http://conabio.inaturalist.org/observations/3763352,,25.5486176229,-100.268557258,,,false,Rheohyla miotympanum,Rheohyla miotympanum,Calates,Amphibia,554652
+4059314,Central Time (US & Canada),research,CC-BY-NC,http://conabio.inaturalist.org/observations/4059314,,25.54867625,-100.2707898333,,,false,Rio Grande Leopard Frog,Lithobates berlandieri,Rana leopardo,Amphibia,65975
+4201458,Central Time (US & Canada),research,,http://conabio.inaturalist.org/observations/4201458,,25.5601442928,-100.2603775264,,,false,Rheohyla miotympanum,Rheohyla miotympanum,Calates,Amphibia,554652
+4201480,Central Time (US & Canada),research,,http://conabio.inaturalist.org/observations/4201480,,25.5531538195,-100.2678823484,,,false,Rheohyla miotympanum,Rheohyla miotympanum,Calates,Amphibia,554652
+4235067,Central Time (US & Canada),research,,http://conabio.inaturalist.org/observations/4235067,,25.6001883333,-100.2561633333,,,false,Sapo nebuloso,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+4297142,Central Time (US & Canada),research,CC-BY-NC,http://conabio.inaturalist.org/observations/4297142,,25.6663816024,-100.2979458442,,,false,Gulf Coast Toad,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+4431272,Central Time (US & Canada),research,CC-BY-NC,http://conabio.inaturalist.org/observations/4431272,,25.5978687359,-100.2597954869,,,false,Gulf Coast Toad,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+4595411,Ekaterinburg,research,CC-BY-NC,http://www.inaturalist.org/observations/4595411,,25.5498714447,-100.2703857422,,,false,Camp's Frog,Eleutherodactylus campi,Rana Chirriadora Mexicana,Amphibia,1146656
+5068116,Ekaterinburg,research,CC-BY-NC,https://www.inaturalist.org/observations/5068116,,25.5489501953,-100.2701034546,,,false,Mexican Smilisca,Smilisca baudinii,Rana arborícola mexicana,Amphibia,24277
+5086614,Central Time (US & Canada),research,CC-BY-NC,http://conabio.inaturalist.org/observations/5086614,,25.5486802389,-100.2708470826,,,false,Rheohyla miotympanum,Rheohyla miotympanum,Calates,Amphibia,554652
+5086615,Central Time (US & Canada),research,CC-BY-NC,http://conabio.inaturalist.org/observations/5086615,,25.5486213536,-100.2707514167,,,false,Mexican Smilisca,Smilisca baudinii,Rana arborícola mexicana,Amphibia,24277
+5189486,Central Time (US & Canada),research,CC-BY-NC,http://conabio.inaturalist.org/observations/5189486,,25.5338087222,-100.2774513889,,,false,Rheohyla miotympanum,Rheohyla miotympanum,Calates,Amphibia,554652
+5207652,Central Time (US & Canada),research,,http://conabio.inaturalist.org/observations/5207652,,25.5322583665,-100.2773548366,,,false,Rheohyla miotympanum,Rheohyla miotympanum,Calates,Amphibia,554652
+5500819,Hawaii,research,,http://conabio.inaturalist.org/observations/5500819,,25.6787037,-100.2843011,,,false,Sapo nebuloso,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+6047635,Central Time (US & Canada),research,CC-BY-NC-SA,http://conabio.inaturalist.org/observations/6047635,,25.5325892222,-100.2773219444,,,false,Rheohyla miotympanum,Rheohyla miotympanum,Calates,Amphibia,554652
+6406350,Hawaii,research,CC-BY-NC,http://conabio.inaturalist.org/observations/6406350,,25.6454040035,-100.2862325583,,,false,Gulf Coast Toad,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+6698058,Ekaterinburg,research,,https://www.inaturalist.org/observations/6698058,,25.5311393738,-100.2776794434,,,false,Rheohyla miotympanum,Rheohyla miotympanum,Calates,Amphibia,554652
+6853998,Central Time (US & Canada),research,CC-BY-NC,http://conabio.inaturalist.org/observations/6853998,,25.6776640833,-100.2849836389,,,false,Gulf Coast Toad,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+7055022,Central Time (US & Canada),research,CC-BY-NC,http://conabio.inaturalist.org/observations/7055022,,25.5541,-100.2672866667,,,false,Rio Grande Leopard Frog,Lithobates berlandieri,Rana leopardo,Amphibia,65975
+7057767,Central Time (US & Canada),research,CC-BY-NC,http://conabio.inaturalist.org/observations/7057767,,25.6132851683,-100.2876201415,,,true,Gulf Coast Toad,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+7166496,Central Time (US & Canada),research,CC-BY-NC-ND,http://conabio.inaturalist.org/observations/7166496,,25.5490333333,-100.2704216667,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+7179757,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/7179757,,25.549862,-100.270419,,,false,Sapo texano,Anaxyrus speciosus,Sapo texano,Amphibia,64987
+7450289,Central Time (US & Canada),research,CC-BY-NC,https://www.inaturalist.org/observations/7450289,,25.5513112165,-100.2267207682,,,false,Rana leopardo,Lithobates berlandieri,Rana leopardo,Amphibia,65975
+7491885,Central Time (US & Canada),research,CC-BY-NC,http://conabio.inaturalist.org/observations/7491885,,25.4504812017,-100.3628011733,,,true,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+7565097,Central Time (US & Canada),research,CC-BY-NC,https://www.inaturalist.org/observations/7565097,,25.5482494887,-100.2709293365,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+7574777,Central Time (US & Canada),research,CC-BY-NC,https://www.inaturalist.org/observations/7574777,,25.54851177,-100.27072249,,,false,Rio Grande Leopard Frog,Lithobates berlandieri,Rana leopardo,Amphibia,65975
+7699602,Central Time (US & Canada),research,CC-BY-NC,https://www.inaturalist.org/observations/7699602,,25.549862,-100.270419,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+7833043,Central Time (US & Canada),research,CC-BY-NC,https://www.inaturalist.org/observations/7833043,,25.5515491952,-100.226938426,,,false,Rana leopardo,Lithobates berlandieri,Rana leopardo,Amphibia,65975
+8019297,Central Time (US & Canada),research,CC-BY-NC,https://www.inaturalist.org/observations/8019297,,25.5484043654,-100.2710366249,,,false,Rana leopardo,Lithobates berlandieri,Rana leopardo,Amphibia,65975
+8057289,Central Time (US & Canada),research,,https://www.inaturalist.org/observations/8057289,,25.5268255802,-100.282295867,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+8407672,Central Time (US & Canada),research,CC-BY-NC,https://www.inaturalist.org/observations/8407672,,25.55375,-100.2676466667,,,false,Gulf Coast Toad,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+8648800,Almaty,research,,https://www.inaturalist.org/observations/8648800,,25.5498726586,-100.270412676,,,false,Rio Grande Leopard Frog,Lithobates berlandieri,Rana leopardo,Amphibia,65975
+8649969,Central Time (US & Canada),research,CC-BY-NC,https://www.inaturalist.org/observations/8649969,,25.5498624,-100.270419,,,false,Rana leopardo,Lithobates berlandieri,Rana leopardo,Amphibia,65975
+8659354,Central Time (US & Canada),research,,https://www.inaturalist.org/observations/8659354,,25.5484912839,-100.2705954271,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+8789511,Central Time (US & Canada),research,CC-BY-NC-ND,https://www.inaturalist.org/observations/8789511,,25.5454947806,-100.2707362175,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+9221855,Central Time (US & Canada),research,CC-BY-NC,https://www.inaturalist.org/observations/9221855,,25.5516666667,-100.2266666667,,,false,Gulf Coast Toad,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+9674446,Central Time (US & Canada),research,CC-BY-NC,https://www.inaturalist.org/observations/9674446,,25.6077364208,-100.2628076077,,,false,Red-spotted Toad,Anaxyrus punctatus,Sapo de puntos rojos,Amphibia,64984
+10387268,Almaty,research,CC-BY-NC,https://www.inaturalist.org/observations/10387268,,25.6767807007,-100.2861862183,,,false,Gulf Coast Toad,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+10458255,Central Time (US & Canada),research,CC-BY-SA,https://www.inaturalist.org/observations/10458255,,25.539534548,-100.2152895927,,,false,Sapo nebuloso,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+11353447,Central Time (US & Canada),research,CC-BY-NC,https://www.inaturalist.org/observations/11353447,,25.5279533333,-100.2789083333,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+11670443,Central Time (US & Canada),research,CC-BY-NC,https://www.inaturalist.org/observations/11670443,,25.5652090121,-100.2612510954,,,false,Small-eared Treefrog,Rheohyla miotympanum,Calates,Amphibia,554652
+11825644,Bogota,research,CC-BY-NC,https://www.inaturalist.org/observations/11825644,,25.5498756835,-100.2705001831,,,false,Sapo nebuloso,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+11838398,Central Time (US & Canada),research,,https://www.inaturalist.org/observations/11838398,,25.5493431091,-100.2711029053,,,false,Sapo nebuloso,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+12010514,Central Time (US & Canada),research,CC-BY,https://www.inaturalist.org/observations/12010514,,25.5569083333,-100.264,,,false,Gulf Coast Toad,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+12053963,Monterrey,research,CC-BY-NC-ND,https://www.inaturalist.org/observations/12053963,,25.5421510618,-100.2715730667,,,false,Sapo nebuloso,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+12369757,Bogota,research,CC-BY-NC-ND,https://www.inaturalist.org/observations/12369757,,25.5565738246,-100.2844905853,,,false,Sapo nebuloso,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+12385225,Central Time (US & Canada),research,CC-BY,https://www.inaturalist.org/observations/12385225,,25.5498624,-100.270419,,,false,Small-eared Tree Frog,Rheohyla miotympanum,Calates,Amphibia,554652
+12462072,Ekaterinburg,research,CC-BY-SA,https://www.inaturalist.org/observations/12462072,,25.6949996948,-100.3222198486,,,false,Camp's Frog,Eleutherodactylus campi,Rana Chirriadora Mexicana,Amphibia,1146656
+12535874,Central Time (US & Canada),research,CC-BY-NC,https://www.inaturalist.org/observations/12535874,,25.5694232573,-100.2763090614,,,false,Sapo nebuloso,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+12993592,Central Time (US & Canada),research,,https://www.inaturalist.org/observations/12993592,,25.6450854102,-100.2812021972,,,false,Gulf Coast Toad,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+13004478,Central Time (US & Canada),research,CC-BY-NC,https://www.inaturalist.org/observations/13004478,,25.5513216667,-100.227105,,,false,Rio Grande Leopard Frog,Lithobates berlandieri,Rana leopardo,Amphibia,65975
+13133897,Central Time (US & Canada),research,,https://www.inaturalist.org/observations/13133897,,25.5601789634,-100.2498891602,,,true,Sapo nebuloso,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+13591759,Central Time (US & Canada),research,CC-BY-NC,https://www.inaturalist.org/observations/13591759,,25.5516283333,-100.2257783333,,,false,Gulf Coast Toad,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+13644110,Central Time (US & Canada),research,,https://www.inaturalist.org/observations/13644110,,25.6793403917,-100.2834016085,,,false,Rio Grande Leopard Frog,Lithobates berlandieri,Rana leopardo,Amphibia,65975
+13674646,Ekaterinburg,research,,https://www.inaturalist.org/observations/13674646,,25.6503737,-100.2901828,,,false,Gulf Coast Toad,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+13736807,Hawaii,research,CC-BY-NC,https://www.inaturalist.org/observations/13736807,,25.4986798027,-100.2631926668,,,false,Small-eared Treefrog,Rheohyla miotympanum,Calates,Amphibia,554652
+13758402,Central Time (US & Canada),research,CC-BY-NC,https://www.inaturalist.org/observations/13758402,,25.5699551,-100.3160404,,,false,Sapo nebuloso,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+13758403,Central Time (US & Canada),research,CC-BY-NC,https://www.inaturalist.org/observations/13758403,,25.5702260999,-100.3158580128,,,false,Rana leopardo,Lithobates berlandieri,Rana leopardo,Amphibia,65975
+13758404,Central Time (US & Canada),research,CC-BY-NC,https://www.inaturalist.org/observations/13758404,,25.5704777271,-100.3156327051,,,false,Sapo nebuloso,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+14047188,Central Time (US & Canada),research,,https://www.inaturalist.org/observations/14047188,,25.5570716667,-100.22422,,,false,Giant Toad,Rhinella horribilis,Sapo gigante,Amphibia,517119
+14047274,Central Time (US & Canada),research,,https://www.inaturalist.org/observations/14047274,,25.58553,-100.248825,,,false,Gulf Coast Toad,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+14244392,Central Time (US & Canada),research,CC-BY-NC,https://www.inaturalist.org/observations/14244392,,25.5244053001,-100.2006523331,,,false,Sapo gigante,Rhinella horribilis,Sapo gigante,Amphibia,517119
+14286183,Hawaii,research,CC-BY-NC,https://www.inaturalist.org/observations/14286183,,25.5043251624,-100.2671822537,,,false,Rana de Árbol Mexicana,Smilisca baudinii,Rana arborícola mexicana,Amphibia,24277
+14508658,Central Time (US & Canada),research,,https://www.inaturalist.org/observations/14508658,,25.5359529285,-100.2764577082,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+15700420,Central Time (US & Canada),research,CC-BY-NC-ND,https://www.inaturalist.org/observations/15700420,,25.54643,-100.2708566667,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+15798762,Central Time (US & Canada),research,CC-BY-NC,https://www.inaturalist.org/observations/15798762,,25.6072979156,-100.2625845458,,,false,Sapo nebuloso,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+15798763,Central Time (US & Canada),research,CC-BY-NC,https://www.inaturalist.org/observations/15798763,,25.6068498638,-100.2621795322,,,false,Sapo nebuloso,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+16606919,Central Time (US & Canada),research,,https://www.inaturalist.org/observations/16606919,,25.5254801902,-100.379398724,,,true,Rio Grande Leopard Frog,Lithobates berlandieri,Rana leopardo,Amphibia,65975
+16675262,Central Time (US & Canada),research,,https://www.inaturalist.org/observations/16675262,,25.5756994713,-100.2636370502,,,false,Sapo nebuloso,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+16855253,Central Time (US & Canada),research,CC-BY-NC,https://www.inaturalist.org/observations/16855253,,25.5480666667,-100.27105,,,false,Camp's Frog,Eleutherodactylus campi,Rana Chirriadora Mexicana,Amphibia,1146656
+17053972,Central Time (US & Canada),research,,https://www.inaturalist.org/observations/17053972,,25.6177364086,-100.2737618756,,,false,Gulf Coast Toad,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+17361159,Central Time (US & Canada),research,,https://www.inaturalist.org/observations/17361159,,25.5513033333,-100.225845,,,false,Sapo nebuloso,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+17433380,Central Time (US & Canada),research,,https://www.inaturalist.org/observations/17433380,,25.6233055272,-100.2705098375,,,false,Rana leopardo,Lithobates berlandieri,Rana leopardo,Amphibia,65975
+17690490,Central Time (US & Canada),research,CC-BY-NC,https://www.inaturalist.org/observations/17690490,,25.613398793,-100.2789933846,,,false,sapo cavador,Scaphiopus couchii,sapo cavador,Amphibia,26691
+18346097,Central Time (US & Canada),research,,https://www.inaturalist.org/observations/18346097,,25.527055,-100.2815166667,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+18439324,Central Time (US & Canada),research,CC-BY-NC,https://www.inaturalist.org/observations/18439324,,25.699400272,-100.3495953455,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+18708144,Central Time (US & Canada),research,,https://www.inaturalist.org/observations/18708144,,25.5487544012,-100.2732643,,,false,Small-eared Treefrog,Rheohyla miotympanum,Calates,Amphibia,554652
+20094809,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/20094809,,25.5326009,-100.2767132,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+20099116,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/20099116,,25.5439529419,-100.2708435059,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+20099235,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/20099235,,25.5439529419,-100.2708435059,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+20104705,Samoa,research,CC-BY-NC,https://www.inaturalist.org/observations/20104705,,25.5396905,-100.2733987778,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+21193622,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/21193622,,25.5434216667,-100.271405,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+21496782,Central Time (US & Canada),research,CC-BY-NC,https://www.inaturalist.org/observations/21496782,,25.55168,-100.2258833333,,,false,Rana leopardo,Lithobates berlandieri,Rana leopardo,Amphibia,65975
+21634520,Hawaii,research,CC-BY-NC,https://www.inaturalist.org/observations/21634520,,25.5410251179,-100.2721557766,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+21712766,Central Time (US & Canada),research,CC-BY-NC,https://www.inaturalist.org/observations/21712766,,25.5519033333,-100.2263116667,,,false,Sapo nebuloso,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+21746208,Central Time (US & Canada),research,CC-BY-NC,https://www.inaturalist.org/observations/21746208,,25.551955,-100.2263033333,,,false,Sapo nebuloso,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+22070039,Hawaii,research,,https://www.inaturalist.org/observations/22070039,,25.5486383333,-100.27088,,,false,Small-eared Treefrog,Rheohyla miotympanum,Calates,Amphibia,554652
+22119016,Mexico City,research,CC-BY-NC,https://www.inaturalist.org/observations/22119016,,25.5485786125,-100.2708793054,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+22128435,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/22128435,,25.6089633421,-100.296805,,,false,Camp's Frog,Eleutherodactylus campi,Rana Chirriadora Mexicana,Amphibia,1146656
+22374170,Central Time (US & Canada),research,CC-BY-NC,https://www.inaturalist.org/observations/22374170,,25.5512783333,-100.225875,,,false,Sapo nebuloso,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+22713377,Monterrey,research,CC-BY-NC-ND,https://www.inaturalist.org/observations/22713377,,25.53820125,-100.2753151667,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+22828330,UTC,research,CC-BY-NC,https://www.inaturalist.org/observations/22828330,,25.5379981995,-100.2754211426,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+22837545,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/22837545,,25.549862,-100.270419,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+23074980,American Samoa,research,CC-BY-NC,https://www.inaturalist.org/observations/23074980,,25.5436466571,-100.2708186954,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+23579856,Central Time (US & Canada),research,CC-BY-NC-ND,https://www.inaturalist.org/observations/23579856,,25.5473949997,-100.2708633333,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+23829221,Monterrey,research,,https://www.inaturalist.org/observations/23829221,,25.5512586577,-100.2690427378,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+25351340,Central Time (US & Canada),research,CC-BY-NC-ND,https://www.inaturalist.org/observations/25351340,,25.5440233169,-100.2711145163,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+25654488,UTC,research,,https://www.inaturalist.org/observations/25654488,,25.67853409,-100.28181911,,,false,Gulf Coast Toad,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+26286382,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/26286382,,25.545200314,-100.2706718445,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+26479614,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/26479614,,25.6970214842,-100.3071517942,,,false,Sapo nebuloso,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+26491215,Central Time (US & Canada),research,CC-BY-NC,https://www.inaturalist.org/observations/26491215,,25.5517533333,-100.2259916667,,,false,Rana leopardo,Lithobates berlandieri,Rana leopardo,Amphibia,65975
+26830039,Central Time (US & Canada),research,CC-BY-NC,https://www.inaturalist.org/observations/26830039,,25.5515466667,-100.225975,,,false,Gulf Coast Toad,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+26922769,Central Time (US & Canada),research,CC-BY-NC,https://www.inaturalist.org/observations/26922769,,25.5514133333,-100.22587,,,false,Sapo nebuloso,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+26933912,Central Time (US & Canada),research,CC-BY-NC,https://www.inaturalist.org/observations/26933912,,25.55182,-100.22618,,,false,Rana leopardo,Lithobates berlandieri,Rana leopardo,Amphibia,65975
+27134103,Guadalajara,research,CC-BY-NC,https://www.inaturalist.org/observations/27134103,,25.5272222196,-100.2816313505,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+27336445,Guadalajara,research,CC-BY-NC,https://www.inaturalist.org/observations/27336445,,25.7293879866,-100.4333403316,,,false,Camp's Frog,Eleutherodactylus campi,Rana Chirriadora Mexicana,Amphibia,1146656
+27758944,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/27758944,,25.5487649346,-100.270686932,,,false,Rana leopardo,Lithobates berlandieri,Rana leopardo,Amphibia,65975
+28206216,Bogota,research,CC-BY-NC,https://www.inaturalist.org/observations/28206216,,25.5351066296,-100.276494585,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+29024778,UTC,research,,https://www.inaturalist.org/observations/29024778,,25.5485904099,-100.2709120493,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+29548985,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/29548985,,25.5345461634,-100.220525328,,,false,Gulf Coast Toad,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+29946750,Bogota,research,CC-BY,https://www.inaturalist.org/observations/29946750,,25.5811977386,-100.2524795532,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+29955773,Bogota,research,CC-BY-NC,https://www.inaturalist.org/observations/29955773,,25.5336227417,-100.2772979736,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+29955794,Bogota,research,CC-BY-NC,https://www.inaturalist.org/observations/29955794,,25.5335941315,-100.2772827148,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+30820628,America/New_York,research,CC-BY-NC,https://www.inaturalist.org/observations/30820628,,25.5401992577,-100.2724119276,,,false,Small-eared Tree Frog,Rheohyla miotympanum,Calates,Amphibia,554652
+30837545,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/30837545,,25.6497689442,-100.2720263354,,,false,Gulf Coast Toad,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+30843942,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/30843942,,25.5498624,-100.270419,,,false,Small-eared Tree Frog,Rheohyla miotympanum,Calates,Amphibia,554652
+30972280,Bogota,research,,https://www.inaturalist.org/observations/30972280,,25.6818084717,-100.2694320679,,,false,Sapo nebuloso,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+31445275,American Samoa,research,CC-BY-NC,https://www.inaturalist.org/observations/31445275,,25.5500508248,-100.2694467455,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+31448027,America/New_York,research,CC-BY,https://www.inaturalist.org/observations/31448027,,25.5626819475,-100.2783094849,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+31448029,Bogota,research,CC-BY,https://www.inaturalist.org/observations/31448029,,25.5626619853,-100.2783161799,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+31540948,UTC,research,,https://www.inaturalist.org/observations/31540948,,25.5240909082,-100.2092334886,,,false,Sapo nebuloso,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+31937729,Monterrey,research,CC-BY,https://www.inaturalist.org/observations/31937729,,25.5377138194,-100.2759075999,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+31958761,UTC,research,,https://www.inaturalist.org/observations/31958761,,25.543216,-100.270329,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+32145642,Mexico City,research,CC-BY-NC,https://www.inaturalist.org/observations/32145642,,25.6956885267,-100.3058747318,,,false,sapo cavador,Scaphiopus couchii,sapo cavador,Amphibia,26691
+32593975,UTC,research,CC-BY-NC,https://www.inaturalist.org/observations/32593975,,25.5956148866,-100.2575927619,,,false,rana arborícola mexicana,Smilisca baudinii,Rana arborícola mexicana,Amphibia,24277
+33264832,Central Time (US & Canada),research,CC-BY-NC,https://www.inaturalist.org/observations/33264832,,25.5422366524,-100.2713405901,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+33561739,American Samoa,research,CC-BY-NC,https://www.inaturalist.org/observations/33561739,,25.5423797584,-100.2716941014,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+34190511,Central Time (US & Canada),research,CC-BY-NC,https://www.inaturalist.org/observations/34190511,,25.6786117554,-100.2833328247,,,false,Sapo nebuloso,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+35035197,Central Time (US & Canada),research,CC-BY-NC-ND,https://www.inaturalist.org/observations/35035197,,25.5621533331,-100.2735066666,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+35884599,UTC,research,,https://www.inaturalist.org/observations/35884599,,25.6133703841,-100.2817947976,,,false,Sapo nebuloso,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+35990135,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/35990135,,25.5478251267,-100.270272412,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+36071219,UTC,research,CC-BY-NC,https://www.inaturalist.org/observations/36071219,,25.7440285178,-100.4138768914,,,false,Gulf Coast Toad,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+36399522,UTC,research,,https://www.inaturalist.org/observations/36399522,,25.5840154675,-100.2505272026,,,false,Rio Grande Leopard Frog,Lithobates berlandieri,Rana leopardo,Amphibia,65975
+37736025,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/37736025,,25.5498756835,-100.2704572678,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+38309994,Central Time (US & Canada),research,CC-BY-NC,https://www.inaturalist.org/observations/38309994,,25.7142020062,-100.4211093903,,,false,Camp's Frog,Eleutherodactylus campi,Rana Chirriadora Mexicana,Amphibia,1146656
+41017810,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/41017810,,25.5372017714,-100.2751951544,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+41267840,UTC,research,,https://www.inaturalist.org/observations/41267840,,25.5486781214,-100.2709387243,,,false,Small-eared Tree Frog,Rheohyla miotympanum,Calates,Amphibia,554652
+44864584,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/44864584,,25.59862833,-100.25479167,,,false,Sapo nebuloso,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+46387238,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/46387238,,25.67684667,-100.284155,,,false,Sapo nebuloso,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+47073186,Mexico City,research,CC-BY-NC,https://www.inaturalist.org/observations/47073186,,25.6961700608,-100.3054287604,,,false,Gulf Coast Toad,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+47582564,UTC,research,,https://www.inaturalist.org/observations/47582564,,25.5857878007,-100.2514269852,,,false,Gulf Coast Toad,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+50238082,UTC,research,,https://www.inaturalist.org/observations/50238082,,25.6765368995,-100.2823186666,,,false,Gulf Coast Toad,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+50928384,Hawaii,research,CC-BY-NC,https://www.inaturalist.org/observations/50928384,,25.618853,-100.295955,,,false,Gulf Coast Toad,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+51060977,UTC,research,CC-BY-NC,https://www.inaturalist.org/observations/51060977,,25.649701,-100.269452,,,false,Rio Grande Chirping Frog,Eleutherodactylus campi,Rana Chirriadora Mexicana,Amphibia,1146656
+51807585,UTC,research,,https://www.inaturalist.org/observations/51807585,,25.4733559845,-100.2527922715,,,true,Sapo nebuloso,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+53056685,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/53056685,,25.5413761139,-100.2380371092,,,false,Sapo nebuloso,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+53399864,Monterrey,research,,https://www.inaturalist.org/observations/53399864,,25.6773659722,-100.284458,,,false,Gulf Coast Toad,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+54218346,UTC,research,,https://www.inaturalist.org/observations/54218346,,25.6130439405,-100.2791932225,,,false,Gulf Coast Toad,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+55117970,UTC,research,,https://www.inaturalist.org/observations/55117970,,25.5136626146,-100.2318470665,,,true,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+56908285,UTC,research,CC-BY-NC,https://www.inaturalist.org/observations/56908285,,25.6185861111,-100.3019333333,,,false,Gulf Coast Toad,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+59021451,UTC,research,CC-BY-NC,https://www.inaturalist.org/observations/59021451,,25.6508809722,-100.268995,,,false,Camp's Frog,Eleutherodactylus campi,Rana Chirriadora Mexicana,Amphibia,1146656
+59377967,UTC,research,CC-BY-NC,https://www.inaturalist.org/observations/59377967,,25.5778800021,-100.25778833,,,false,Sapo nebuloso,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+60475045,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/60475045,,25.5486357647,-100.2707767172,,,false,Rana leopardo,Lithobates berlandieri,Rana leopardo,Amphibia,65975
+60539517,UTC,research,,https://www.inaturalist.org/observations/60539517,,25.7437877003,-100.3958914429,,,false,Camp's Frog,Eleutherodactylus campi,Rana Chirriadora Mexicana,Amphibia,1146656
+61641012,UTC,research,CC-BY-NC,https://www.inaturalist.org/observations/61641012,,25.5614249722,-100.278456,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+61735662,Hawaii,research,CC-BY-NC,https://www.inaturalist.org/observations/61735662,,25.619688426,-100.3005239551,,,false,Gulf Coast Toad,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+61736796,Hawaii,research,CC-BY-NC,https://www.inaturalist.org/observations/61736796,,25.6199317179,-100.3002985657,,,false,Sapo nebuloso,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+63242235,UTC,research,,https://www.inaturalist.org/observations/63242235,,25.57128667,-100.31326333,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+63267176,UTC,research,,https://www.inaturalist.org/observations/63267176,,25.55361167,-100.288825,,,false,Sapo nebuloso,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+63338234,Amsterdam,research,,https://www.inaturalist.org/observations/63338234,,25.5921338812,-100.2523406222,,,false,Small-eared Tree Frog,Rheohyla miotympanum,Calates,Amphibia,554652
+63380230,Europe/London,research,,https://www.inaturalist.org/observations/63380230,,25.7425362123,-100.3967021406,,,false,Camp's Frog,Eleutherodactylus campi,Rana Chirriadora Mexicana,Amphibia,1146656
+63381354,Amsterdam,research,,https://www.inaturalist.org/observations/63381354,,25.5499265017,-100.2703757957,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+63432979,Central Time (US & Canada),research,,https://www.inaturalist.org/observations/63432979,,25.5435253674,-100.2719065214,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+70861880,America/Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/70861880,,25.5796548679,-100.2631965237,,,false,Eleutherodactylus campi,Eleutherodactylus campi,Rana Chirriadora Mexicana,Amphibia,1146656
+70861917,America/Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/70861917,,25.5796548679,-100.2631965237,,,false,Couch's Spadefoot,Scaphiopus couchii,sapo cavador,Amphibia,26691
+71377039,UTC,research,,https://www.inaturalist.org/observations/71377039,,25.567423329,-100.2671346813,,,false,Small-eared Tree Frog,Rheohyla miotympanum,Calates,Amphibia,554652
+71377102,UTC,research,,https://www.inaturalist.org/observations/71377102,,25.5686152597,-100.2669814602,,,false,Small-eared Tree Frog,Rheohyla miotympanum,Calates,Amphibia,554652
+71392118,UTC,research,,https://www.inaturalist.org/observations/71392118,,25.576811104,-100.2629174657,,,false,Gulf Coast Toad,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+76641993,Hawaii,research,CC-BY-NC,https://www.inaturalist.org/observations/76641993,,25.620692107,-100.2999284628,,,false,Sapo nebuloso,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+77260346,Mexico City,research,,https://www.inaturalist.org/observations/77260346,,25.6786073444,-100.284201242,,,false,Sapo nebuloso,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+78169219,Pacific Time (US & Canada),research,CC-BY-NC,https://www.inaturalist.org/observations/78169219,,25.5765633333,-100.30777,,,false,Rio Grande Leopard Frog,Lithobates berlandieri,Rana leopardo,Amphibia,65975
+78478778,Hawaii,research,CC-BY-NC,https://www.inaturalist.org/observations/78478778,,25.6201155237,-100.300148362,,,false,Sapo nebuloso,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+79597984,UTC,research,CC-BY-NC,https://www.inaturalist.org/observations/79597984,,25.5274898673,-100.2052075563,,,false,Gulf Coast Toad,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+79602930,UTC,research,CC-BY-NC,https://www.inaturalist.org/observations/79602930,,25.5274366667,-100.2052616667,,,false,Gulf Coast Toad,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+79879435,Mexico City,research,CC-BY-NC,https://www.inaturalist.org/observations/79879435,,25.5653663813,-100.2768144384,,,false,Gulf Coast Toad,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+80904159,Guadalajara,research,CC-BY-NC,https://www.inaturalist.org/observations/80904159,,25.5268583333,-100.2816,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+84764306,Central Time (US & Canada),research,CC-BY-NC-SA,https://www.inaturalist.org/observations/84764306,,25.6444416667,-100.2862166667,,,false,Gulf Coast Toad,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+85557207,Central Time (US & Canada),research,CC-BY-NC-ND,https://www.inaturalist.org/observations/85557207,,25.5491256666,-100.2711327269,,,false,Small-eared Tree Frog,Rheohyla miotympanum,Calates,Amphibia,554652
+87700913,Mexico City,research,CC-BY-NC,https://www.inaturalist.org/observations/87700913,,25.535908928,-100.2191563323,,,false,rana arborícola mexicana,Smilisca baudinii,Rana arborícola mexicana,Amphibia,24277
+91341955,Mexico City,research,CC-BY-NC,https://www.inaturalist.org/observations/91341955,,25.550071999,-100.2701283619,,,false,Gulf Coast Toad,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+91342136,Mexico City,research,CC-BY-NC,https://www.inaturalist.org/observations/91342136,,25.5500946857,-100.2701169625,,,false,Rana Chirriante Mexicana,Eleutherodactylus campi,Rana Chirriadora Mexicana,Amphibia,1146656
+92380737,Monterrey,research,,https://www.inaturalist.org/observations/92380737,,25.5500995255,-100.2703942358,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+92523300,Mexico City,research,,https://www.inaturalist.org/observations/92523300,,25.5501777778,-100.2695194444,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+95616194,UTC,research,,https://www.inaturalist.org/observations/95616194,,25.6483672647,-100.2833822947,,,false,rana arborícola mexicana,Smilisca baudinii,Rana arborícola mexicana,Amphibia,24277
+96259952,UTC,research,,https://www.inaturalist.org/observations/96259952,,25.4977105903,-100.2432154196,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+96488013,UTC,research,,https://www.inaturalist.org/observations/96488013,,25.4979108232,-100.243825482,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+97010824,Monterrey,research,,https://www.inaturalist.org/observations/97010824,,25.6657266667,-100.3251133333,,,false,Gulf Coast Toad,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+97168051,UTC,research,,https://www.inaturalist.org/observations/97168051,,25.5767074789,-100.261484677,,,false,Gulf Coast Toad,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+98037431,Mexico City,research,CC-BY-NC,https://www.inaturalist.org/observations/98037431,,25.7530959722,-100.400171,,,false,Rana leopardo,Lithobates berlandieri,Rana leopardo,Amphibia,65975
+98170137,UTC,research,,https://www.inaturalist.org/observations/98170137,,25.6634079907,-100.3135376984,,,false,Gulf Coast Toad,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+98170138,Monterrey,research,,https://www.inaturalist.org/observations/98170138,,25.6634066024,-100.3134612659,,,false,Gulf Coast Toad,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+99846839,Central Time (US & Canada),research,CC-BY-NC-ND,https://www.inaturalist.org/observations/99846839,,25.5487933331,-100.27086,,,false,Small-eared Tree Frog,Rheohyla miotympanum,Calates,Amphibia,554652
+100021716,Mexico City,research,CC-BY-NC,https://www.inaturalist.org/observations/100021716,,25.5500063589,-100.2700924873,,,false,Rana leopardo,Lithobates berlandieri,Rana leopardo,Amphibia,65975
+100021772,Mexico City,research,CC-BY-NC,https://www.inaturalist.org/observations/100021772,,25.5500242058,-100.2700814232,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+106456721,Guadalajara,research,CC-BY,https://www.inaturalist.org/observations/106456721,,25.5385855073,-100.2740690566,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+106472648,Guadalajara,research,CC-BY,https://www.inaturalist.org/observations/106472648,,25.5916685051,-100.2640936208,,,false,Gulf Coast Toad,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+109561045,UTC,research,,https://www.inaturalist.org/observations/109561045,,25.6182466667,-100.290345,,,false,rana arborícola mexicana,Smilisca baudinii,Rana arborícola mexicana,Amphibia,24277
+109989196,Monterrey,research,CC-BY-NC-SA,https://www.inaturalist.org/observations/109989196,,25.5474605558,-100.2705307006,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+110288485,Mexico City,research,,https://www.inaturalist.org/observations/110288485,,25.7433398358,-100.3947954252,,,false,Gulf Coast Toad,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+115583432,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/115583432,,25.5722287849,-100.2593334764,,,false,Sapo gigante,Rhinella horribilis,Sapo gigante,Amphibia,517119
+116315236,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/116315236,,25.6182157867,-100.2979841083,,,false,Gulf Coast Toad,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+118430660,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/118430660,,25.6748728877,-100.2861522762,,,false,Gulf Coast Toad,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+119549855,Monterrey,research,,https://www.inaturalist.org/observations/119549855,,25.5438365833,-100.2318801667,,,false,Gulf Coast Toad,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+119826786,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/119826786,,25.6089370202,-100.2672178298,,,false,Gulf Coast Toad,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+120751035,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/120751035,,25.7542143418,-100.4038391635,,,false,Rana leopardo,Lithobates berlandieri,Rana leopardo,Amphibia,65975
+122116601,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/122116601,,25.52768,-100.2815166667,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+125371682,Monterrey,research,,https://www.inaturalist.org/observations/125371682,,25.5609783333,-100.27883,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+127330284,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/127330284,,25.6760967944,-100.2869168056,,,false,Sapo nebuloso,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+129321088,Monterrey,research,,https://www.inaturalist.org/observations/129321088,,25.5607236835,-100.2546418443,,,false,rana arborícola mexicana,Smilisca baudinii,Rana arborícola mexicana,Amphibia,24277
+129717424,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/129717424,,25.5217906114,-100.2309101725,,,false,rana arborícola mexicana,Smilisca baudinii,Rana arborícola mexicana,Amphibia,24277
+131638630,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/131638630,,25.5499265017,-100.2703757957,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+131789664,Monterrey,research,CC-BY-NC-SA,https://www.inaturalist.org/observations/131789664,,25.6532268522,-100.2720336914,,,false,Sapo nebuloso,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+131827337,Monterrey,research,CC-BY-NC-SA,https://www.inaturalist.org/observations/131827337,,25.6400962972,-100.3145341972,,,false,Sapo nebuloso,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+132599810,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/132599810,,25.6759386031,-100.2831685916,,,false,Rana leopardo,Lithobates berlandieri,Rana leopardo,Amphibia,65975
+132900459,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/132900459,,25.6224897238,-100.2766746173,,,false,Rana arborícola de montaña,Hyla eximia,Rana arborícola de montaña,Amphibia,65551
+132911091,Monterrey,research,,https://www.inaturalist.org/observations/132911091,https://static.inaturalist.org/sounds/528588.wav?1661832404,25.6124622563,-100.282093361,,,false,Rio Grande Chirping Frog,Eleutherodactylus campi,Rana Chirriadora Mexicana,Amphibia,1146656
+132911178,Monterrey,research,"",https://www.inaturalist.org/observations/132911178,https://static.inaturalist.org/sounds/528589.wav?1661832456,25.6128806823,-100.2901798859,,,false,Sapo nebuloso,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+133134886,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/133134886,,25.549217767,-100.2708220482,,,false,Sapo nebuloso,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+135062291,Monterrey,research,,https://www.inaturalist.org/observations/135062291,,25.639416897,-100.3053504601,,,false,Gulf Coast Toad,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+135263738,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/135263738,,25.5494016815,-100.2706929669,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+135621057,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/135621057,,25.5959527778,-100.2621305556,,,false,Sapo nebuloso,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+136424419,Monterrey,research,CC-BY-NC-ND,https://www.inaturalist.org/observations/136424419,,25.5475766664,-100.2708816667,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+136424433,Monterrey,research,CC-BY-NC-ND,https://www.inaturalist.org/observations/136424433,,25.5486266667,-100.2707716667,,,false,Rana leopardo,Lithobates berlandieri,Rana leopardo,Amphibia,65975
+136525902,Monterrey,research,,https://www.inaturalist.org/observations/136525902,,25.7431498779,-100.3949074075,,,false,Gulf Coast Toad,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+136995853,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/136995853,,25.5486941535,-100.270819366,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+138241463,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/138241463,,25.5518612084,-100.226066038,,,false,Mexican Smilisca,Smilisca baudinii,Rana arborícola mexicana,Amphibia,24277
+139592379,Monterrey,research,CC-BY,https://www.inaturalist.org/observations/139592379,,25.5422514444,-100.2716080833,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+139592380,Monterrey,research,CC-BY,https://www.inaturalist.org/observations/139592380,,25.542186,-100.2714863889,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+141654562,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/141654562,,25.6410713194,-100.294036865,,,false,Gulf Coast Toad,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+141698095,Monterrey,research,CC-BY-NC-SA,https://www.inaturalist.org/observations/141698095,,25.6420523006,-100.3067227453,,,false,Gulf Coast Toad,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+143744655,Monterrey,research,,https://www.inaturalist.org/observations/143744655,,25.5462524091,-100.2711207792,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+143745650,Monterrey,research,,https://www.inaturalist.org/observations/143745650,,25.5492667705,-100.2694034949,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+143819695,Monterrey,research,,https://www.inaturalist.org/observations/143819695,,25.5499265017,-100.2703757957,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+146504182,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/146504182,,25.5486034058,-100.2707519755,,,false,Rana leopardo,Lithobates berlandieri,Rana leopardo,Amphibia,65975
+147490071,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/147490071,,25.5498944379,-100.2704391629,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+148405530,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/148405530,,25.5480676899,-100.2710416541,,,false,Sapo nebuloso,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+148478588,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/148478588,,25.5486049182,-100.270790197,,,false,Rana leopardo,Lithobates berlandieri,Rana leopardo,Amphibia,65975
+149771417,Monterrey,research,CC-BY-NC-SA,https://www.inaturalist.org/observations/149771417,,25.6418890819,-100.2939856052,,,false,Sapo nebuloso,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+150087004,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/150087004,,25.5440883421,-100.27102,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+150096641,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/150096641,,25.5423827835,-100.2724310383,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+153655380,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/153655380,,25.5872008,-100.2503738,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+154289661,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/154289661,,25.5467442709,-100.2704938129,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+154302338,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/154302338,,25.5261657806,-100.2807319306,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+154633911,Monterrey,research,CC-BY-SA,https://www.inaturalist.org/observations/154633911,,25.6159381099,-100.2687024325,,,false,Gulf Coast Toad,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+155832602,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/155832602,,25.6424611111,-100.2821583333,,,false,Sapo gigante,Rhinella horribilis,Sapo gigante,Amphibia,517119
+157315586,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/157315586,,25.5494413077,-100.2695661038,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+159900970,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/159900970,,25.5485628717,-100.2707912028,,,false,Rana leopardo,Lithobates berlandieri,Rana leopardo,Amphibia,65975
+162314946,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/162314946,,25.6478555556,-100.2792805556,,,false,Sapo nebuloso,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+163246069,Monterrey,research,CC0,https://www.inaturalist.org/observations/163246069,,25.7416883333,-100.325155,,,false,Sapo nebuloso,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+164778664,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/164778664,,25.49262,-100.2503666667,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+166942153,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/166942153,,25.6476898193,-100.2805175781,,,false,Sapo nebuloso,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+167297016,Monterrey,research,,https://www.inaturalist.org/observations/167297016,,25.6620524751,-100.3311259442,,,false,Rana Chirriadora Mexicana,Eleutherodactylus campi,Rana Chirriadora Mexicana,Amphibia,1146656
+168070789,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/168070789,,25.5543902548,-100.2203344926,,,false,Sapo gigante,Rhinella horribilis,Sapo gigante,Amphibia,517119
+169605170,Monterrey,research,,https://www.inaturalist.org/observations/169605170,,25.6619106824,-100.3313300555,,,false,Rana Chirriadora Mexicana,Eleutherodactylus campi,Rana Chirriadora Mexicana,Amphibia,1146656
+170401229,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/170401229,,25.6502234722,-100.2784189,,,false,Sapo nebuloso,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+170908460,Monterrey,research,,https://www.inaturalist.org/observations/170908460,,25.5392027726,-100.2146368101,,,false,Rana arborícola mexicana,Smilisca baudinii,Rana arborícola mexicana,Amphibia,24277
+170944579,Monterrey,research,,https://www.inaturalist.org/observations/170944579,,25.7428813996,-100.3950351477,,,false,Sapo nebuloso,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+171150513,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/171150513,,25.6055332245,-100.2614668384,,,false,Sapo nebuloso,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+171332207,Monterrey,research,CC0,https://www.inaturalist.org/observations/171332207,,25.6066194444,-100.2933777778,,,false,Sapo nebuloso,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+172443619,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/172443619,,25.5324694844,-100.2786785008,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+177613714,Monterrey,research,CC-BY,https://www.inaturalist.org/observations/177613714,,25.6442390847,-100.299126905,,,false,Sapo nebuloso,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+177888914,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/177888914,,25.5433969531,-100.271889813,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+182383395,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/182383395,,25.5483108949,-100.2707191184,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+184388296,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/184388296,,25.5494954536,-100.2709326893,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+184775935,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/184775935,,25.60708,-100.2623583333,,,false,Sapo nebuloso,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+186053760,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/186053760,,25.5485607543,-100.2707858384,,,false,Rana leopardo,Lithobates berlandieri,Rana leopardo,Amphibia,65975
+187335090,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/187335090,,25.6501651833,-100.2782903639,,,false,Sapo nebuloso,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+189058636,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/189058636,,25.5479046455,-100.2708669752,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+189059354,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/189059354,,25.5486454522,-100.2708129957,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+191726882,Monterrey,research,,https://www.inaturalist.org/observations/191726882,,25.58212445,-100.2594361,,,false,Small-eared Tree Frog,Rheohyla miotympanum,Calates,Amphibia,554652
+192160917,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/192160917,,25.5944304565,-100.2633024752,,,false,Sapo nebuloso,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+197396463,Monterrey,research,,https://www.inaturalist.org/observations/197396463,,25.5484083709,-100.2728407149,,,false,Small-eared Tree Frog,Rheohyla miotympanum,Calates,Amphibia,554652
+198518539,Monterrey,research,,https://www.inaturalist.org/observations/198518539,,25.5424895997,-100.2714598997,,,false,Small-eared Tree Frog,Rheohyla miotympanum,Calates,Amphibia,554652
+198607178,Monterrey,research,CC-BY,https://www.inaturalist.org/observations/198607178,,25.5557619853,-100.2656624839,,,false,Small-eared Tree Frog,Rheohyla miotympanum,Calates,Amphibia,554652
+198742743,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/198742743,,25.548677214,-100.270832777,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+198952228,Monterrey,research,,https://www.inaturalist.org/observations/198952228,,25.5436333333,-100.2711633333,,,false,Small-eared Tree Frog,Rheohyla miotympanum,Calates,Amphibia,554652
+199028542,Monterrey,research,,https://www.inaturalist.org/observations/199028542,,25.5436383333,-100.2710716667,,,false,Small-eared Tree Frog,Rheohyla miotympanum,Calates,Amphibia,554652
+199482169,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/199482169,,25.5486660217,-100.2708294243,,,false,Rana leopardo,Lithobates berlandieri,Rana leopardo,Amphibia,65975
+199482736,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/199482736,,25.5474318456,-100.2707207948,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+201652747,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/201652747,,25.547245,-100.21672,,,false,Sapo gigante,Rhinella horribilis,Sapo gigante,Amphibia,517119
+202024099,Monterrey,research,,https://www.inaturalist.org/observations/202024099,,25.5921338812,-100.2523406222,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+203878572,Monterrey,research,CC-BY,https://www.inaturalist.org/observations/203878572,,25.6628416667,-100.310555,,,false,Gulf Coast Toad,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+203879380,Monterrey,research,CC-BY,https://www.inaturalist.org/observations/203879380,,25.6632633333,-100.3063883333,,,false,Gulf Coast Toad,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+203990589,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/203990589,,25.662895,-100.310525,,,false,Sapo nebuloso,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+205169528,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/205169528,,25.5296195756,-100.2792535722,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+205704449,Monterrey,research,,https://www.inaturalist.org/observations/205704449,,25.6626304799,-100.3093008997,,,false,Sapo de puntos rojos,Anaxyrus punctatus,Sapo de puntos rojos,Amphibia,64984
+207708013,Monterrey,research,CC-BY-NC-ND,https://www.inaturalist.org/observations/207708013,,25.54326362,-100.2713681697,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+209572071,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/209572071,,25.5568184,-100.2661465997,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+210466142,Monterrey,research,,https://www.inaturalist.org/observations/210466142,,25.5577990609,-100.2644999701,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+212828688,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/212828688,,25.6020691627,-100.2576973289,,,false,Sapo nebuloso,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+213696387,Monterrey,research,,https://www.inaturalist.org/observations/213696387,,25.7566107303,-100.2500711735,,,true,Sapo gigante,Rhinella horribilis,Sapo gigante,Amphibia,517119
+213966408,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/213966408,,25.5387279997,-100.2745881997,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+216221709,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/216221709,,25.5387245997,-100.2746618,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+217571957,Monterrey,research,,https://www.inaturalist.org/observations/217571957,,25.5451726811,-100.2706442059,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+218718000,Monterrey,research,,https://www.inaturalist.org/observations/218718000,https://static.inaturalist.org/sounds/1063998.m4a?1716837672,25.539013604,-100.2146067041,,,false,Sapo gigante,Rhinella horribilis,Sapo gigante,Amphibia,517119
+227327747,Monterrey,research,,https://www.inaturalist.org/observations/227327747,,25.5557137528,-100.265953576,,,false,Small-eared Tree Frog,Rheohyla miotympanum,Calates,Amphibia,554652
+227327964,Monterrey,research,,https://www.inaturalist.org/observations/227327964,,25.53872,-100.2748416667,,,false,Small-eared Tree Frog,Rheohyla miotympanum,Calates,Amphibia,554652
+229440255,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/229440255,,25.6734366039,-100.2821771801,,,false,Sapo nebuloso,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+230563855,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/230563855,,25.6038164398,-100.2587731058,,,false,Sapo nebuloso,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+233214819,Monterrey,research,,https://www.inaturalist.org/observations/233214819,,25.5429176087,-100.2710448403,,,false,Small-eared Tree Frog,Rheohyla miotympanum,Calates,Amphibia,554652
+234758469,Monterrey,research,CC-BY,https://www.inaturalist.org/observations/234758469,,25.6446224789,-100.2775039779,,,false,Sapo nebuloso,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+236779740,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/236779740,,25.5300396997,-100.2787368997,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+236961627,Monterrey,research,,https://www.inaturalist.org/observations/236961627,,25.5308265683,-100.2779541014,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+237897675,Monterrey,research,CC-BY,https://www.inaturalist.org/observations/237897675,,25.5486167734,-100.2709909473,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+238805925,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/238805925,,25.5383493706,-100.2740336582,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+239312077,Monterrey,research,CC-BY,https://www.inaturalist.org/observations/239312077,,25.5475466667,-100.27047,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+239643624,Monterrey,research,CC-BY,https://www.inaturalist.org/observations/239643624,,25.5520917258,-100.2690387593,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+239818319,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/239818319,,25.5395376578,-100.2735377848,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+241120993,Monterrey,research,CC0,https://www.inaturalist.org/observations/241120993,,25.5607383333,-100.2748033333,,,false,Small-eared Tree Frog,Rheohyla miotympanum,Calates,Amphibia,554652
+241134437,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/241134437,,25.54823,-100.27082,,,false,Gulf Coast Toad,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+241485778,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/241485778,,25.5486769,-100.2708415997,,,false,Rio Grande Leopard Frog,Lithobates berlandieri,Rana leopardo,Amphibia,65975
+243271296,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/243271296,,25.5482470275,-100.2349132762,,,false,Sapo nebuloso,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+244188561,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/244188561,,25.5727922165,-100.2752017602,,,false,Sapo nebuloso,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+244360293,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/244360293,,25.5578366667,-100.280905,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+245279270,Monterrey,research,CC-BY-NC-SA,https://www.inaturalist.org/observations/245279270,,25.5473833333,-100.27058,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+245332509,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/245332509,,25.5393733917,-100.2732792869,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+245524567,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/245524567,,25.5431426823,-100.2710279077,,,false,Small-eared Tree Frog,Rheohyla miotympanum,Calates,Amphibia,554652
+245611572,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/245611572,,25.6062135076,-100.2616539225,,,false,Sapo nebuloso,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+246383851,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/246383851,,25.5486276052,-100.270809643,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+247084031,Monterrey,research,,https://www.inaturalist.org/observations/247084031,,25.6068166667,-100.293245,,,false,Sapo nebuloso,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+247988587,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/247988587,,25.5783230875,-100.2653502459,,,false,Sapo nebuloso,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+248798318,Monterrey,research,,https://www.inaturalist.org/observations/248798318,,25.5747135077,-100.2565998025,,,false,Sapo nebuloso,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+248897578,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/248897578,,25.5290047997,-100.2800383997,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+249333904,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/249333904,,25.5398737522,-100.2732534707,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+249342825,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/249342825,,25.5388754493,-100.2737976238,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+249464009,Monterrey,research,,https://www.inaturalist.org/observations/249464009,,25.6791560727,-100.2838937938,,,false,Sapo nebuloso,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+251736464,Monterrey,research,CC-BY,https://www.inaturalist.org/observations/251736464,,25.6641966667,-100.31897,,,false,Sapo nebuloso,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+251922135,Monterrey,research,CC-BY,https://www.inaturalist.org/observations/251922135,,25.5435283333,-100.2711866667,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+252301992,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/252301992,,25.5434633333,-100.2712383333,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+252823626,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/252823626,,25.5312360519,-100.2780893857,,,false,Small-eared Tree Frog,Rheohyla miotympanum,Calates,Amphibia,554652
+253243369,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/253243369,,25.5410633333,-100.2721033333,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+253418714,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/253418714,,25.5485226402,-100.2707818151,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+254563709,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/254563709,,25.5438583333,-100.271095,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+255830038,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/255830038,,25.5486694444,-100.2709305556,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+256196316,Monterrey,research,,https://www.inaturalist.org/observations/256196316,,25.64876785,-100.30900065,,,false,Sapo nebuloso,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+257889313,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/257889313,,25.5367990021,-100.2811611607,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+257889314,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/257889314,,25.5366715882,-100.2803457692,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+259370399,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/259370399,,25.5498944379,-100.2704391629,,,false,Small-eared Tree Frog,Rheohyla miotympanum,Calates,Amphibia,554652
+259471083,Monterrey,research,,https://www.inaturalist.org/observations/259471083,,25.5397866667,-100.2739333333,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+261673026,Monterrey,research,CC-BY,https://www.inaturalist.org/observations/261673026,,25.53858,-100.2747116667,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+261760559,Monterrey,research,CC-BY,https://www.inaturalist.org/observations/261760559,,25.5431613753,-100.2710990939,,,false,Small-eared Tree Frog,Rheohyla miotympanum,Calates,Amphibia,554652
+262074627,Monterrey,research,,https://www.inaturalist.org/observations/262074627,,25.5561916667,-100.2656166667,,,false,Small-eared Tree Frog,Rheohyla miotympanum,Calates,Amphibia,554652
+263907451,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/263907451,,25.5750190002,-100.2561594173,,,false,Sapo nebuloso,Incilius nebulifer,Sapo nebuloso,Amphibia,65849
+265247194,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/265247194,,25.5467938805,-100.2710218728,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+265582438,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/265582438,,25.5463262187,-100.2706788853,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+265582507,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/265582507,,25.5438817035,-100.2714211866,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+266440165,Monterrey,research,CC-BY,https://www.inaturalist.org/observations/266440165,,25.5452581951,-100.2707790355,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+268020269,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/268020269,,25.5389155,-100.2747726,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+268020298,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/268020298,,25.5306731,-100.2781851997,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+278922608,Monterrey,research,,https://www.inaturalist.org/observations/278922608,,25.5312898908,-100.2789605409,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+278923435,Monterrey,research,,https://www.inaturalist.org/observations/278923435,,25.534538483,-100.2765066549,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+280711619,Monterrey,research,,https://www.inaturalist.org/observations/280711619,,25.5271466667,-100.2815633333,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+281028371,Monterrey,research,,https://www.inaturalist.org/observations/281028371,,25.5494827489,-100.2700861171,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+283194495,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/283194495,,25.5498943,-100.2704391,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+283839100,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/283839100,,25.5388616667,-100.2749366667,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+284064101,Monterrey,research,CC-BY,https://www.inaturalist.org/observations/284064101,,25.5437716667,-100.2711033333,,,false,Calates,Rheohyla miotympanum,Calates,Amphibia,554652
+284623575,Monterrey,research,,https://www.inaturalist.org/observations/284623575,,25.5268533333,-100.281495,,,false,Small-eared Tree Frog,Rheohyla miotympanum,Calates,Amphibia,554652
+284636959,Monterrey,research,,https://www.inaturalist.org/observations/284636959,,25.526795,-100.281555,,,false,Small-eared Tree Frog,Rheohyla miotympanum,Calates,Amphibia,554652

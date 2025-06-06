@@ -1,0 +1,32 @@
+id,time_zone,quality_grade,license,url,sound_url,latitude,longitude,private_latitude,private_longitude,coordinates_obscured,species_guess,scientific_name,common_name,iconic_taxon_name,taxon_id
+4978511,Almaty,needs_id,CC-BY-NC,https://www.inaturalist.org/observations/4978511,,25.6774616241,-100.2846832275,,,false,Vesper Bats,Vespertilioninae,,Mammalia,846180
+5178508,Central Time (US & Canada),research,CC-BY-NC,http://conabio.inaturalist.org/observations/5178508,,25.5497829444,-100.2699046944,,,false,Miotis californiano,Myotis californicus,Murciélago ratón de California,Mammalia,40342
+5427789,Almaty,research,CC-BY-NC,https://www.inaturalist.org/observations/5427789,,25.6798801422,-100.2819519043,,,false,Murciélago cola suelta brasileño,Tadarida brasiliensis,Murciélago mexicano cola suelta,Mammalia,41301
+6554014,Central Time (US & Canada),research,CC-BY,http://conabio.inaturalist.org/observations/6554014,,25.6773166667,-100.2845,,,false,Pipistrelo del oeste americano,Parastrellus hesperus,Murciélago de Cañón,Mammalia,183164
+6578230,Central Time (US & Canada),needs_id,CC-BY-NC,https://www.inaturalist.org/observations/6578230,,25.6773445948,-100.284658223,,,false,Pipistrelo del oeste americano,Parastrellus hesperus,Murciélago de Cañón,Mammalia,183164
+6828747,Central Time (US & Canada),research,CC-BY-NC,http://conabio.inaturalist.org/observations/6828747,,25.6075084722,-100.2626061944,,,false,Murciélago cola suelta brasileño,Tadarida brasiliensis,Murciélago mexicano cola suelta,Mammalia,41301
+7792847,Central Time (US & Canada),research,CC-BY-NC,https://www.inaturalist.org/observations/7792847,,25.5513710037,-100.2259681596,,,false,Mexican Free-tailed Bat,Tadarida brasiliensis,Murciélago mexicano cola suelta,Mammalia,41301
+13559245,Central Time (US & Canada),needs_id,CC-BY-NC,https://www.inaturalist.org/observations/13559245,,25.6770633333,-100.2844383333,,,false,Hairy-tailed Bats,Lasiurus,Murciélagos de cola peluda,Mammalia,40516
+21615098,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/21615098,,25.6757202148,-100.2928161621,,,false,Murciélago cola suelta brasileño,Tadarida brasiliensis,Murciélago mexicano cola suelta,Mammalia,41301
+34551294,UTC,needs_id,,https://www.inaturalist.org/observations/34551294,,25.6562541592,-100.2881859594,,,false,Vesper Bats,Vespertilioninae,,Mammalia,846180
+44156782,UTC,research,CC-BY-NC,https://www.inaturalist.org/observations/44156782,,25.6333969055,-100.3142612662,,,false,Miotis californiano,Myotis californicus,Murciélago ratón de California,Mammalia,40342
+45821106,UTC,research,,https://www.inaturalist.org/observations/45821106,,25.7339823134,-100.3287399933,,,false,Murciélago cola suelta,Tadarida brasiliensis,Murciélago mexicano cola suelta,Mammalia,41301
+66990178,Hawaii,research,CC-BY-NC,https://www.inaturalist.org/observations/66990178,,25.6735166667,-100.3447716667,,,false,Murciélago cola suelta mayor,Nyctinomops macrotis,Murciélago cola suelta mayor,Mammalia,41315
+69710870,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/69710870,,25.5925052067,-100.2592379227,,,false,Murciélago cola suelta,Tadarida brasiliensis,Murciélago mexicano cola suelta,Mammalia,41301
+69939302,UTC,research,,https://www.inaturalist.org/observations/69939302,,25.5152122177,-100.398660197,,,true,Miotis mexicano,Myotis velifer,Miotis mexicano,Mammalia,40348
+73029650,UTC,needs_id,CC-BY-NC,https://www.inaturalist.org/observations/73029650,,25.7214591778,-100.3794031166,,,false,Murciélagos rabones,Molossidae,Murciélagos rabones,Mammalia,41226
+75513183,Monterrey,needs_id,CC-BY-NC,https://www.inaturalist.org/observations/75513183,,25.6790166667,-100.3947216667,,,false,Yellow Bats,Dasypterus,,Mammalia,1492824
+94242487,UTC,needs_id,,https://www.inaturalist.org/observations/94242487,,25.5112203499,-100.2292069127,,,true,Mouse-eared Bats,Myotis,Murciélagos orejas de ratón,Mammalia,40270
+98067379,UTC,needs_id,,https://www.inaturalist.org/observations/98067379,,25.567757492,-100.2690637498,,,false,Murciélagos orejas de ratón,Myotis,Murciélagos orejas de ratón,Mammalia,40270
+112328755,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/112328755,,25.6356068087,-100.2936888859,,,false,Murciélago cola suelta,Tadarida brasiliensis,Murciélago mexicano cola suelta,Mammalia,41301
+126005098,Monterrey,research,,https://www.inaturalist.org/observations/126005098,,25.6519716667,-100.2872466667,,,false,Pallid Bat,Antrozous pallidus,Murciélago desértico norteño,Mammalia,40614
+126058000,Monterrey,research,,https://www.inaturalist.org/observations/126058000,,25.652974142,-100.287995562,,,false,Pallid Bat,Antrozous pallidus,Murciélago desértico norteño,Mammalia,40614
+146523882,Monterrey,needs_id,CC-BY-NC,https://www.inaturalist.org/observations/146523882,,25.5486971785,-100.2708334476,,,false,Mouse-eared Bats,Myotis,Murciélagos orejas de ratón,Mammalia,40270
+158310507,Monterrey,needs_id,CC-BY-NC,https://www.inaturalist.org/observations/158310507,,25.6825650211,-100.3460687399,,,false,Hairy-tailed Bats,Lasiurus,,Mammalia,1492825
+160848381,Monterrey,research,,https://www.inaturalist.org/observations/160848381,,25.5604665841,-100.2535325289,,,false,Murciélago canoso de cola peluda,Lasiurus cinereus,Murciélago canoso de cola peluda,Mammalia,40523
+202065085,Monterrey,research,,https://www.inaturalist.org/observations/202065085,,25.5488468778,-100.2708436436,,,false,California Myotis,Myotis californicus,Murciélago ratón de California,Mammalia,40342
+205163988,Monterrey,needs_id,CC-BY-NC,https://www.inaturalist.org/observations/205163988,,25.5486929436,-100.2708197013,,,false,Murciélagos orejas de ratón,Myotis,Murciélagos orejas de ratón,Mammalia,40270
+211054439,Monterrey,needs_id,CC0,https://www.inaturalist.org/observations/211054439,,25.7002350774,-100.375707657,,,false,Yangochiroptera,Yangochiroptera,,Mammalia,446946
+229540891,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/229540891,,25.6837172556,-100.2765145821,,,false,Murciélago de Cañón,Parastrellus hesperus,Murciélago de Cañón,Mammalia,183164
+253200405,Monterrey,needs_id,,https://www.inaturalist.org/observations/253200405,,25.5882373129,-100.3377706558,,,false,American Big-eared Bats,Corynorhinus leonpaniaguae,Murciélago-mula de León-Paniagua,Mammalia,1534573
+264834791,Monterrey,research,CC-BY-NC,https://www.inaturalist.org/observations/264834791,,25.677931829,-100.3734228223,,,false,Murciélago mexicano cola suelta,Tadarida brasiliensis,Murciélago mexicano cola suelta,Mammalia,41301
